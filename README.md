@@ -73,7 +73,7 @@ apm install atom-ide-console
 After installation of the above packages:
 
 - Open the file you need to debug
-- Use CTRL+SHIFT+P and run "Show Debugger" to show the debugger pane
+- Use CTRL+SHIFT+P and run "Show Debugger" to show the debugger panel
 - Click add target button and fill the information
 - Debug your application like the gif
 
